@@ -41,10 +41,6 @@ main {
     color: #f2f2f2;
 }
 
-.card img {
-    width: 70px;
-}
-
 .card-intro h1 {
     font-size: 2.5rem;
     margin: 20px auto;
