@@ -48,13 +48,13 @@ main {
 .card-intro h1 {
     font-size: 2.5rem;
     margin: 20px auto;
-    font-family: 'Big Shoulders Display', cursive;
+    font-family: 'Big Shoulders Display';
 }
 
 .card-intro p {
     color: #ffffffbf;
     font-size: 1rem;
-    font-family: 'Lexend Deca', sans-serif;
+    font-family: 'Lexend Deca';
     line-height: 1.5rem;
 }
 
@@ -63,7 +63,7 @@ main {
     border-radius: 28px;
     background: #f2f2f2;
     text-decoration: none;
-    font-family: 'Lexend Deca', sans-serif;
+    font-family: 'Lexend Deca';
     transition: background-color 300ms ease-in-out;
     border: 2px solid #f2f2f2;
 }
@@ -105,6 +105,6 @@ main {
         height: 430px;
     }
     main {
-        margin: 330px 0;
+        margin: 350px 0;
     }
 }
